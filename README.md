@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm Lewis Park, a 2nd year Data Science and Applie
 
 Here are some highlighted projects:
 
-- [Project Name](Link): Brief description of the project.
-- [Project Name](Link): Brief description of the project.
-- [Project Name](Link): Brief description of the project.
+- [Text Reader Analysis](Link): Created a text reader program that takes two pieces of text and compares term frequencies using TF-IDF giving a similarity score.
+- [Markey Marketplace](Link): Built a local marketplace for users to sell and purchase items, creating customer and seller accounts for users, allowing for different functionality based on their role.
+- [Gif a day Bot](Link): Developed a bot for Discord that enhances user experience by implementing various commands that allow for users to listen to music, send Gifs, and play text games within their respective servers.
 
 For a complete list of my projects, please visit [my portfolio](Link).
 
