@@ -35,8 +35,6 @@ Feel free to connect with me on:
 
 Don't hesitate to reach out!
 
-Happy coding! 😊
-
 <!--
 **lewispark1504/lewispark1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
