@@ -1,6 +1,6 @@
-# Hello! 👋
+# Hello!
 
-Welcome to my GitHub profile! I'm Lewis Park, a 2nd year Data Science and Applied Statistics major at Purdue University, passionate about machine learning and data analytics. Here you'll find a variety of projects I've worked on, ranging from school projects to personal side projects.
+Welcome to my GitHub profile! I'm Lewis Park, a senior Data Science and Applied Statistics major at Purdue University, passionate about machine learning and data analytics. Here you'll find a variety of projects I've worked on, ranging from school projects to personal side projects.
 
 ## About Me
 
